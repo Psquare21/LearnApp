@@ -2,7 +2,7 @@
 
 #Project description
 
-Technical stacks:- Python, Django, Bootstrap, CSS, HTML.
+Technical stacks:- Python, Django, Bootstrap, CSS, HTML, SQLite.
 
 It is a web application that allows users to buys courses and books available on the website.
 
@@ -10,7 +10,7 @@ Delineated front-end using HTML, CSS, Bootstrap.
 
 Developed back-end using Python and Django.
 
-Stored data of users, courses and books using SQL database.
+Stored data of users, courses and books using SQLite database.
 
 #How to use this Project?
 
